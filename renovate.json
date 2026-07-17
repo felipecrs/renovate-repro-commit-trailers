@@ -4,6 +4,6 @@
   "commitTrailers": [
     "Co-authored-by: Felipe Santos <felipecassiors@gmail.com>",
     "Renovate-Update-Type: {{{updateType}}}",
-    "Renovate-Category: {{{categories[0]}}}"
+    "Renovate-Category: {{{categories.[0]}}}"
   ]
 }
