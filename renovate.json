@@ -1,5 +1,5 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": ["config:recommended", ":gitSignOff"],
-  "commitTrailers": ["Co-authored-by: Felipe Santos <felipecassiors@gmail.com>"]
+  "commitTrailers": ["Co-authored-by: Felipe Santos <felipecassiors@gmail.com>", "Renovate-Update-Type: {{{updateType}}}", "Renovate-Category: {{{categories[0]}}}"]
 }
